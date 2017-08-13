@@ -14,5 +14,6 @@ public class MainActivity extends AppCompatActivity {
         Toast.makeText(getApplicationContext(), "hola", Toast.LENGTH_LONG).show();
         Toast.makeText(getApplicationContext(), "hola google play", Toast.LENGTH_LONG).show();
         Toast.makeText(getApplicationContext(), "hola google play2", Toast.LENGTH_LONG).show();
+        Toast.makeText(getApplicationContext(), "hola google play3", Toast.LENGTH_LONG).show();
     }
 }
